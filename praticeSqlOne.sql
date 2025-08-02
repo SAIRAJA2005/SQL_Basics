@@ -1,3 +1,4 @@
+-- Come here to learn my Way of SQL
 -- create the database BookStoreDB
 -- CREATE DATABASE BookStoreDB;
 
@@ -65,6 +66,7 @@
 -- if any published_year is same then it will sort by price in descending order.
 
 -- SELECT * from books ORDER BY published_year, price DESC;
+
 
 
 
