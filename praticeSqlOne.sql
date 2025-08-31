@@ -13,7 +13,7 @@
 -- (3, 'Alice', 300, '2025-08-03'),
 -- (4, 'David', 400, '2025-08-04');
 
-select * from orders
+-- select * from orders
 
 -- Count total orders.
 -- select count(*) from orders;
@@ -259,6 +259,7 @@ DROP table Departments
 -- JOIN Employees e2
 --     ON e1.dept_id = e2.dept_id
 -- WHERE e1.emp_name = 'Alice' AND e1.emp_id <> e2.emp_id;
+
 
 
 
